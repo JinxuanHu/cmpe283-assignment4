@@ -17,7 +17,7 @@ Jinxuan Hu And Xuan Shi---
 `insmod  /lib/modules/5.12.0+/kernel/arch/x86/kvm/kvm-intel.ko ept=0`
 
 ## Output
-1. with ept
+1. with ept https://github.com/JinxuanHu/cmpe283-assignment4/blob/master/EPT.txt
 
 
 2. without ept
