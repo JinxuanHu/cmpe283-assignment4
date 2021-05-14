@@ -20,8 +20,7 @@ Jinxuan Hu And Xuan Shi---
 1. with ept 
 https://github.com/JinxuanHu/cmpe283-assignment4/blob/main/EPT.txt
 
-2. without ept
-
+2. without ept 
 https://github.com/JinxuanHu/cmpe283-assignment4/blob/main/NO-EPT.txt
 
 
