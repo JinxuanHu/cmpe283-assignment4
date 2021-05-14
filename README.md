@@ -8,7 +8,7 @@ Jinxuan Hu (013728936) Xuan Shi(013856401)---
 
 
 ## Steps:
-1.Environment setup: this assignment is based on Assignment3, so environment setup is the same as Assignment3.
+1.Environment setup: this assignment is based on Assignment3, so environment setup is the same as Assignment3(https://github.com/xuanwumay/283-assignment3).
 
 2.Run the assignment3 code and boot a test VM using that code.
 
