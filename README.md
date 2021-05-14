@@ -1,6 +1,6 @@
 # cmpe283-assignment4
 ## Members:
-Jinxuan Hu And Xuan Shi---
+Jinxuan Hu (013728936) Xuan Shi(013856401)---
 * Run the code in assignment3 with nested paging,    
 * Run the code with shadow paging.
 * Analyze the outputs of two modes.
