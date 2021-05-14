@@ -1,9 +1,11 @@
 # cmpe283-assignment4
 ## Members:
-Run the code in assignment3 with nested paging,    
-Run the code with shadow paging.
-Analyze the outputs of two modes.
+Jinxuan Hu And Xuan Shi---
+Run the code in assignment3 with nested paging,
+Run the code with shadow paging. 
+Analyze the outputs of two modes. 
 Create the document.
+
 
 ## Steps:
 1.Environment setup: this assignment is based on Assignment3, so environment setup is the same as Assignment3.
