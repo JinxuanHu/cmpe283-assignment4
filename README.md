@@ -32,4 +32,4 @@ A: As we can see from the output, the number of exits of 'without ept' is obviou
    
 4.What changed between the two runs (ept vs no-ept)?
 
-A: The count of exits in NO-EPT Mode is larger than EPT Mode. 
+A: The count of exits in NO-EPT Mode is larger than EPT Mode. Shadow paging cause more exits than nested paging.
