@@ -22,6 +22,8 @@ https://github.com/JinxuanHu/cmpe283-assignment4/blob/main/EPT.txt
 
 2. without ept
 
+https://github.com/JinxuanHu/cmpe283-assignment4/blob/main/NO-EPT.txt
+
 
 
 
